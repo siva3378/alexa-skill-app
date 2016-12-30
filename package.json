@@ -1,0 +1,25 @@
+{
+  "name": "sample-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siva3378/alexa-skills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siva3378/alexa-skills/issues"
+  },
+  "homepage": "https://github.com/siva3378/alexa-skills#readme"
+}
